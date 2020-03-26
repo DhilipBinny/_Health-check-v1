@@ -1,0 +1,3 @@
+infermedica_api
+flask
+requests
